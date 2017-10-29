@@ -1,0 +1,77 @@
+　　高中化学方程式配平在化学学习中非常重要，同学们需多加练习掌握配平技巧。以下是小编整理的化学方程式配平常见题目。
+　
+　　1、配平Al + Fe3O4 → Fe + Al2O3
+　　第一步：配平氧原子 Al + 3Fe3O4 → Fe + 4Al2O3 第二步：配平铁和铝原子 8Al + 3Fe3O4 → 9Fe + 4Al2O3 第三步：配平的化学方程式：
+　　8Al + 3Fe3O4 = 9Fe + 4Al2O3
+　
+　　所以，1个Fe2O3应将3个“O”分别给3个CO，使其转变为3个CO2。即 Fe2O3 + 3CO——Fe + 3CO2
+　　再观察上式：左边有2个Fe（Fe2O3），所以右边Fe的系数应为2。即 Fe2O3 + 3CO ==2Fe + 3CO2
+　　这样就得到配平的化学方程式了，注意将“——”线变成“==”号。即
+　　Fe2O3 + 3CO == 2Fe + 3CO2
+　　
+　　第一步：配平氧原子 4H2O + Fe →Fe3O4 + H2 第二步：配平氢原子、铁原子 4H2O + 3Fe →Fe3O4 + 4H2 第三步：配平后的化学方程式：
+　　4H2O + Fe == Fe3O4 + 4H2
+　
+　　第一步：在Fe2O3前乘2 FeS2 + O2 → 2Fe2O3 + SO2 第二步：配平铁原子 4FeS2 + O2 → 2Fe2O3 + SO2 第三步：配平硫原子 4FeS2 + O2 → 2Fe2O3 + 8SO2 第四步：配平氧原子。配平后的化学方程式为：
+　　4FeS2 + 11O2 == 2Fe2O3 + 8SO2
+　　5、例：配平C2H2 + O2 → CO2 + H2O
+　　第一步：配平化合物中的碳原子和氢原子 C2H2 + O2 → 2CO2 + H2O
+　　第二：利用分数配平氧原子 C2H2 + 5/2O2 → 2CO2 + H2O 第三步：去分母，即全部乘2。得配平的化学方程式：
+　　2C2H2 + 5O2 ==4CO2 + 2H2O
+　　
+　　1、下列化学方程式配平正确的是
+　　A2KMnO4+11H2S+5H2SO4→K2SO4+2MnSO4+13S↓+16H2O
+　　B2KMnO4+8H2S+4H2SO4→K2SO4+2MnSO4+9S↓+12H2O
+　　C2KMnO4+5H2S+3H2SO4→K2SO4+2MnSO4+S↓+4H2O
+　　D2KMnO4+5H2S+3H2SO4→K2SO4+2MnSO4+5S↓+8H2O
+　　2、配平下列以KMnO4为氧化剂的氧化-还原反应
+　　KMnO4+SO2+H2O→MnSO4+K2SO4+H2SO4
+　　KMnO4+K2SO3+H2O→MnO2+K2SO4+KOH
+　　KMnO4+KNO2+→MnSO4+K2SO4+KNO3+H2O
+　　KMnO4+H2S+H2SO4→K2SO4+MnSO4+S↓+H2O
+　　KMnO4+H2O2+H2SO4→K2SO4+MnSO4+O2↑+H2O
+　　KMnO4+HCl→MnCl2+Cl2+KCl+H2O
+　　KMnO4+NaOH+PH3→K2MnO4+Na2MnO4+Na3PO4+H2O
+　　KMnO4+FeCl2+H2SO4→K2SO4+MnSO4+Fe2（SO4）3+Cl2+H2O
+　　3、配平下列以Cr（Ⅵ）为氧化剂的氧化还原反应
+　　K2Cr2O7+C+H2SO4→K2SO4+Cr2（SO4）3+CO2+H2O
+　　KI+K2CrO4+HCl→CrCl3+KCl+I2+H2O
+　　K2Cr2O7+Fe3O4+H2SO4→Cr2（SO4）3+Fe2（SO4）3+K2SO4+H2O
+　　K2Cr2O7+KI+→CrPO4+K3PO4+I2+H2O
+　　4、配平下列以HNO3为氧化剂的氧化还原反应
+　　Cu+HNO3→Cu（NO3）2+NO+H2O
+　　FeSO4+HNO3→H2SO4→Fe2（SO4）3+NO+H2O
+　　Zn+HNO3→Zn（NO3）2+NH4NO3+H2O
+　　As2S3+HNO3→H3AsO4+S+NO2+H2O
+　　P+HNO3→H2O→H3PO4+NO
+　　P+HNO3→H3PO4+NO2+H2O
+　　AsH3+HNO3→H3AsO4+NO2+H2O
+　　As2O3+HNO3+H2O→H3AsO4+NO
+　　Cu2S+HNO3→S+NO+Cu（NO3）2+H2O
+　　Cu2S+HNO3→H2SO4+NO+Cu（NO3）2+H2O
+　　FeS2+HNO3→Fe（NO3）3+SO2+NO+H2O
+　　Fe3P+HNO3→Fe（NO3）3+NO+H3PO4+H2O
+　　Fe3C+HNO3→CO2+NO+Fe（NO3）3+H2O
+　　5、配平下列氧化-还原反应
+　　KNO2→K2O+NO+O2
+　　P+KOH+H2O→PH3+KH2PO2
+　　FeS2+CuSO4+H2O→FeSO4+Cu2S+H2SO4
+　　P+CuSO4+H2O→Cu+H3PO4+H2SO4
+　　P+CuSO4+H2O→Cu3P+H3PO4+H2SO4
+　　HClO3+P4+H2O→HCl+H3PO4
+　　Fe（OH）3+NaOH+Cl2→Na2FeO4+NaCl+H2O
+　　CrCl3+KMnO4+H2O→K2Cr2O7+MnCl2+HCl+MnCr2O7
+　　PbO2+H2SO4→PbSO4+O2+H2O
+　　AsH3+AgNO3+H2O→As2O3+Ag+HNO3
+　　NH4ClO4→N2↑+HCl↑+O2↑+H2O
+　　NH4NO3→N2+NO2+H2O
+　　NH4NO3→N2+HNO3+H2O
+　　S+KOH→K2S+K2SO3+H2O
+　　NO2+NaOH→NaNO2+NaNO3+H2O
+　　F2+NH3→NH4F+N2
+　　FeS2+O2→Fe2O3+SO2
+　　Cu（IO3）2+KI+H2SO4→CuI↓+I2+K2SO4+H2O
+　　6、配平下列含x的氧化还原反应
+　　S+Ca（OH）2→CaS2O3+CaS·Sx+H2O
+　　Na2Sx+NaClO+NaOH→Na2SO4+NaCl+H2O
+　　NOx+NH3→N2+H2O

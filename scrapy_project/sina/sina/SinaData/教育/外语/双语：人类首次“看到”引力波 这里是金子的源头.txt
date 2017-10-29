@@ -1,0 +1,48 @@
+　　10月16日22时，国际天文界宣布一次新的科学进展：首次直接探测到双中子星并合引力波及其伴随的电磁信号。这标志着人类历史上第一次使用引力波天文台和其他望远镜观测到同一天体物理事件，预示着天文学研究进入“多信使”阶段。
+　　全球多国科学家16日同步举行新闻发布会，宣布人类第一次直接探测到来自双中子星合并的引力波，并同时“看到”这一壮观宇宙事件发出的电磁信号。
+　　On Monday, scientists who won a Nobel Prize for their discovery of gravitational waves announced the first detection of the collision of two neutron stars.
+　　10月16日，因发现引力波而获得诺贝尔奖的科学家团队宣布，他们首次探测到了中子星合并。
+　　Astronomers detected the merger from 130 million light-years away, in the galaxy NGC 4993, on the morning of August 17.
+　　天文学家在8月17日晨间观测到的此次合并来自1.3亿光年之外的NGC 4993星系。
+　　The team alerted astronomers all over the world to the event right after it happened, helping them point telescopes directly at the scene of the crash.
+　　在探测到这一天文事件后，科学家团队提醒全球的天文学家观测这一现象，帮助他们把望远镜对准合并现场。
+　　此次引力波事件具有极为重要的意义，天文学家使用了大量地面和空间望远镜进行观测，形成了一场天文学历史上极为罕见的全球规模的联合观测。不过，在引力波事件发生时，仅有4台X射线和伽马射线望远镜成功监测到爆发天区，中国的“慧眼”望远镜便是其中之一。
+　　根据探测记录，科学家复原出整个事件发生的过程：在距离地球1.3亿光年的长蛇座星系NGC4993中，两颗中子星互相绕转。在并合前约100秒时，它们相距400公里，每秒钟互相绕转12圈，并向外辐射引力波。它们越转越近，直至最终碰撞在一起，形成新的天体，并发出电磁辐射。
+　　The collision created the first observed instance of a single source emitting ripples in space-time, known as gravitational waves, as well as light, which was released in the form of a two-second gamma ray burst.
+　　通过这次合并，科学家首次观测到太空中单源发射的引力波，并观测到了以两秒钟的伽马射线暴形式释放出的可见光。
+　　It is being hailed as the first known instance of multi-messenger astrophysics: one source in the universe emitting two kinds of waves, gravitational and electromagnetic.
+　　这预示着天体物理学首次进入多信使阶段：宇宙中的同一来源发射出两种形式的波，引力波和电磁波。
+　　
+　　中国紫金山天文台副研究员金志平参与的国际团队，通过对此次引力波光学信号的观测和光谱分析，首次提供确凿证据证实，中子星合并是宇宙中金银等元素的主要起源。金志平说：“这就是宇宙中的‘巨型黄金制造厂’。”
+　　These images revealed a radioactive soup giving birth to unfathomable amounts of platinum, gold, and silver — not to mention elements like the iodine found in our bodies, the uranium in nuclear weapons, and the bismuth in Pepto-Bismol — while shooting those materials deep into space.
+　　观测图像显示出了两个中子星的放射性碰撞场景，而这也产生了数量庞大的铂、金和银，以及我们身体中的碘、核武器中的铀、可以减轻肠胃不适的铋。中子星合并将这些物质四散进宇宙深处。
+　　The two neutron stars most likely merged to form a black hole, though the tiny bit of neutron star that escaped — and formed new elements — could get recycled into planets like Earth where aliens may eventually dig up the metals as we have.
+　　两个中子星最可能合并成一个黑洞，但合并中四散出的碎块会形成新的元素，循环进入类似地球的星体，也许外星人正像我们一样挖掘这些金属矿藏。
+　　
+　　引力波是由黑洞、中子星等碰撞产生的一种时空涟漪，宛如石头丢进水里产生的波纹。百年前，爱因斯坦广义相对论预言了引力波的存在，但直到2015年人类才首次探测到引力波，3名美国科学家因此获得今年的诺贝尔物理学奖。
+　　Gravitational waves were first directly detected two years ago, proving Albert Einstein's theory of general relativity, and recently, three scientists were awarded the Nobel Prize in Physics for their work on that first detection. Those gravitational waves were the result of two black holes colliding, and the signal lasted for only a fraction of a second. Because black holes don't emit light, these waves were invisible and only "heard" as thumps.
+　　引力波于两年前首次被发现，证实了爱因斯坦的广义相对论。最近，三位科学家因首次探测到引力波被授予诺贝尔物理学奖。他们成功探测到来自于两个黑洞合并的引力波信号，信号仅持续几毫秒。因为黑洞并不发射出光，因此引力波不可见，只能以急速跳动的形式被“听到”。
+　　
+　　这是人类第五次探测到引力波，然而科学界的兴奋之情甚至不亚于第一次探测到引力波时。因为与之前被探测到的四个引力波信号不同，这次探测到的引力波信号GW170817来自1.3亿光年外两颗并合的中子星，而且科学家第一次同时观测到了引力波及其电磁对应体，以及科学家预言的巨新星现象。
+　　1. For the first time, telescopes and gravitational wave observatories together witnessed the same astronomical event.
+　　这是人类历史上第一次使用电磁波望远镜和引力波天文台同时观测到同一个天体物理事件。
+　　2. This is the first time gravitational waves from the merger of binary neutron stars have been observed.
+　　这是首次观测到双中子星合并产生出引力波。
+　　3. This observation is the first to definitively identify binary neutron star collisions as a source of short gamma-ray bursts. Theorized for many years, this is the first direct link between those phenomena.
+　　这次观测首次为中子星合并可产生伽马射线短暴给予了确凿证据。这一理论已有多年历史，而此次观测首次证实了这两种现象之间有直接联系。
+　　4. This discovery is the first verification of a "kilonova" explosion, confirming binary neutron star collisions as one source for the universe's heaviest elements, such as gold and uranium.
+　　这次发现首次证实了“千新星”爆炸，确认了双中子星合并是宇宙中最重的元素的来源之一，比如金和铀。
+　　5. This is the first binary neutron star pair confirmed outside of our own Milky Way galaxy, and this is the closest to Earth that astronomers have seen a gamma ray burst.
+　　这是银河系外首次得以证实的一对中子星，也是天文学家观测到伽马射线暴距离地球最近的一次。
+　　6. The gravitational wave signals from GW170817 have enabled scientists to measure the expansion rate of the universe in a completely new way.
+　　来自此次GW170817观测的引力波使科学家可以用全新的方式测量宇宙的膨胀率。
+　　7. The partnership between LIGO and Italy-based Virgo allowed telescopes to rapidly turn their attention towards the area of sky where the neutron stars collided.
+　　激光干涉引力波天文台（LIGO）和意大利的处女座引力波探测器（Virgo）让无数望远镜迅速调转方向，对准这一片天空，观测两个中子星合并。
+　　8. This event presents the strongest evidence to date for the detection of a gamma-ray burst off-axis, which means the cone emission from the explosion is not pointed directly at Earth.
+　　此次观测为伽马射线暴轴偏移提供了有史以来最强有力的证据，也就是说伽马射线暴产生的锥状发射不是直接对准地球的。
+　　9. The gravitational waves and light waves arrived within seconds of each other, suggesting they may travel at the same speed and confirming a prediction of Albert Einstein. The difference in detection time is likely a reflection of what happens during the explosion process.
+　　引力波和光波到达地球的时间相差只有几秒钟，这意味着两者传播速度一样，证实了爱因斯坦的猜想。探测时间的差异很可能反映出合并过程中发生了什么。
+　　10. Only gravitational wave observatories can directly detect unexploded binary neutron stars outside of our local galactic neighborhood, or directly observe the stars pre-collison, albeit only briefly before impact.
+　　只有引力波天文台能够探测到银河系外未爆炸的双中子星，或者直接观测合并前的双中子星，不过只是在合并或爆炸前很短的时间内。
+　　来源：CNN、商业内幕网、新华社、科技日报
+　　翻译&编审：yaning

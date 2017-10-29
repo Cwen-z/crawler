@@ -1,0 +1,99 @@
+　　牛津大学的面试题是出了名的难，今天，留学君带大家一起见识一下难倒大部分留学生的牛津大学的面试题，涨涨知识，看看别人的大学都考些什么，也测测自己能答上几题。
+　　
+　　▌Ladybirds are red。 So are strawberries。 Why？
+　　瓢虫是红的，草莓也是，为什么？
+　　解答提示：常见的动植物是非常普遍的考点，这道题主要考察你的思辨能力。
+　　Red can signal either ‘don’t eat me‘ or ’eat me‘ to consumers。 I’m interested in seeing how applicants attempt to resolve this apparent paradox。
+　　红色既可以向取食者发送“别吃我”的信号，又可以发送“吃我”的信号。这道题考查考生如何解决这个明显的悖论。
+　　
+　　▌How do pirates divide their treasure？
+　　海盗如何分财宝？
+　　A group of 7 pirates has 100 gold coins。 They have to decide amongst themselves how to divide the treasure， but must abide by pirate rules：
+　　7个海盗共有100枚金币，他们必须自行决定如何分财宝，分财宝必须按照如下规则：
+　　The most senior pirate proposes the division。
+　　最年长的海盗提出一个分赃方案。
+　　All of the pirates （including the most senior） vote on the division。 If half or more vote for the division， it stands。 If less than half vote for it， they throw the most senior pirate overboard and start again。
+　　所有海盗（包括最年长者）进行投票，如果一半或以上的海盗赞同，那结果成立。如果少于一半，他们将最年长者投入大海并重新来过。
+　　The pirates are perfectly logical， and entirely ruthless （only caring about maximizing their own share of the gold）。
+　　海盗逻辑性强，而且非常无情（只关注个人所得最大化）。
+　　So， what division should the most senior pirate suggest to the other six？
+　　所以，最年长的海盗应如何建议把金币分给其他6个海盗？
+　　解答提示：这是道标准的逻辑考题，同时教授们还将注重你解决问题和沟通能力。
+　　I like to see how students can take directions， and if they can break problems into smaller subsets， and work through a complex concept applying a solution in an algorithmic way。 If students have any questions， I want them to ask – not to sit in silence feeling stuck！
+　　这道题关注学生如何跟着引导走，是否能将大问题切分成小问题，用算法方式化解复杂的概念。如有问题，学生应该立即提出，而非闷声冥思苦想。
+　　
+　　▌Do bankers deserve the pay they receive？ And should government do something to limit how much they get？
+　　银行家们的所得与付出是否成正比？政府是否应限制其所得？
+　　解答提示：这道题反映了一个非常现实的金融问题，解题关键是从经济学角度解读收入，而非考虑公平性问题。
+　　A simple answer might be that since banks are generally private firms and workers are free to work where they wish， then the pay they receive is just the outcome of a competitive labour market。
+　　简单的答案：一般来讲银行是私人公司，员工能较为自由地自主选择工作地方，因此他们的个人所得是竞争激烈的劳动市场的结果。
+　　
+　　▌JK Rowling has published a book for adults after the hugely successful Harry Potter series。 In what ways do you think that writing for children is different to writing for adults？
+　　J.K。 罗琳在《哈利·波特》系列大获成功之后又推出了一本面向成人读者的书籍。你认为为孩子们写书和为成人写书有何区别？
+　　解答提示：没读过这本书也不用慌，考官是想了解你是否是一个爱思考的读书人。
+　　I always want to know that whatever they are reading， candidates are reading thoughtfully and self-consciously， and are able to think as literary critics about all the books they read。 I am careful to judge them on what they know， not on what they don‘t know
+　　我想了解的是，不论考生们读过什么，他们都应该边读边思考，做个有心人，能够像一个文学批评家一样读书。我尽量通过他们知道的事情来评判他们，而非他们不知道的。
+　　
+　　▌If I were to visit the area where you live， what would I be interested in？
+　　如果我到你的家乡，我会对什么感兴趣？
+　　解答提示：这道题考查的是你的“地理思维”以及对世界的好奇心。
+　　The question probes whether they are able to apply ‘geographical thinking‘ to the everyday landscapes around them。 It reveals the extent to which they have a curiosity about the world around them。
+　　这道题主要考查考生是否能将“地理思维”应用到他们周边的事物。这揭示了他们是否对周围的世界抱有好奇心。
+　　
+　　▌Is violence always political？ Does ‘political’ mean something different in different contexts？
+　　暴力中都含有政治因素吗？在不同的语境下，“政治”是否具有不同内涵？
+　　解答提示：此题并非考查问题的解决，而是发现考生对已知领域的兴趣。
+　　A good candidate would， with assistance， begin to construct categories of when violence looks more and less political。 A very good candidate would， with assistance， begin to construct a useful definition of ‘political’， but this is challenging。
+　　一个优秀的考生将能够在帮助下，将暴力含有政治因素多少的情况进行分类。而出类拔萃的考生将能够在帮助下建立起对于“政治”的有用定义，但这非常具有挑战性。
+　　
+　　▌If the punishment for parking on double yellow lines were death， and therefore nobody did it， would that be a just and effective law？
+　　如果停车停在双黄线上将判处死刑，那么没人会这么做。这是一条公正且行之有效的法律吗？
+　　解答提示：结果不重要，对结果引发问题的思考才是考官们最看重的。
+　　Candidates are not meant to give a right or wrong answer to this question。 They need to demonstrate that they have recognised the various issues that arise。 The candidate who distinguishes between ‘just’ and ‘effective’ does best。 The issues are different once that distinction is made。 A just law might not be effective， or vice versa。
+　　这道题不是要考生给出正确或错误的答案，但他们需要认识到结果将引发的系列问题。能够区分“公正”和“有效”的考生才是最优秀的。如果做出区分，则两者差别显而易见，公正的法律未必有效，反之亦然。
+　　
+　　▌How hot does the air have to be in a hot air balloon if I wanted to use it to lift an elephant？
+　　如果我想用热气球吊起一头大象，里面的空气得多热？
+　　解答提示：教授们设置这道题，肯定不是为了在很短时间内让你给出一个确切的答案。
+　　Things we are looking for include how readily they can see into the core of a problem； how they respond to hints and suggestions from us； estimates （typical size of balloon， weight of elephant） and sorting out what‘s important。。。
+　　我们看中的是：他们怎样快速地考虑到问题的核心；对于我们给出的暗示和建议他们如何应对；预估（典型热气球的大小，大象的重量）及归纳出最重要的是什么……
+　　
+　　▌In a world where English is a global language， why learn French？
+　　既然英语是全球性语言，为什么要学法语？
+　　解答提示：这个问题看似简单，实际大有深意，你的回答，会影响老师们后续的问题。
+　　Given the nature of the Modern Languages course， I would be interested in responses about the French language as a ‘window’ into French culture/literature/history， etc。； but would also be happy to see candidates investigate some of the assumptions underlying the question： Is English a global language？ What about Mandarin Chinese， Spanish， etc。？
+　　考虑到现代语言学课程的属性，我会对法语是通向法国文化、文学、历史的“窗口”等这样的回答感兴趣；不过，如果有考生能探究该问题背后的假设：为什么英语是全球语言？那汉语和西班牙语呢？我也会很开心。
+　　
+　　▌Why is income per head between 50 and 100 times larger in the United States than in countries such as Burundi and Malawi？
+　　为什么美国人均收入是布隆迪、马拉维这样国家的50到100倍？
+　　解答提示：回答这个问题时，不能停留在问题表面，而要学会透过现象看本质。
+　　The question is focused on perhaps the most important economic question there is： why are some countries rich and some countries poor？ Candidates need to think about all the potential reasons why such income gaps exist。
+　　这个问题关注的可能是最重要的经济学问题：为什么有些国家富有而有些国家贫穷？考生要考虑到存在这样的收入差距的所有潜在原因。
+　　
+　　▌A large study appears to show that older siblings consistently score higher than younger siblings on IQ tests。 Why would this be？
+　　一项大规模研究证明，年长的哥哥姐姐智力测试得分一直比他们的弟弟妹妹高，这是为什么呢？
+　　解答提示：这个问题也需要综合考虑很多因素，比如：出生顺序、母亲的生育年龄、父母是否专注陪伴等。
+　　This is a question that really asks students to think about lots of different aspects of psychology， and we guide students when discussing it to think about both scientific factors such as maternal age and observational analysis about how birth order might affect behaviour and therefore performance on IQ tests。
+　　这个问题真的需要学生去考虑心理学的各个方面，在讨论过程中我们会引导学生去思考两个方面：科学因素，如母亲年龄，和观测分析，比如出生顺序可能会影响行为，进而影响智力测试中的表现。
+　　
+　　▌Is someone who risks their own life （and those of others） in extreme sports or endurance activities a hero or a fool？
+　　那些冒着自己或他人生命危险进行极限运动或耐力活动的人是英雄还是傻子？
+　　解答提示：如何把具体的问题和一个相对广泛的概念联系在一起，如何探索出更多值得谈论的问题是老师们想要看到的闪光点。
+　　The question is properly approached from many perspectives and opens up many topics – Is this impulse selfish， or does it contribute to the whole of humanity‘s attainment？ What is a hero， and is that category in opposition to folly？
+　　这个问题可以从很多角度入手，可以发掘更多话题——这种冲动自私吗？它是否对全人类的成就有贡献？英雄是什么，是与愚蠢相对的分类吗？
+　　除了以上这些专业性的问题，名校面试也包括一些常规问题。问题都不难，关键要明白面试官的意图，名校面试常规问题我们也整理了一些，供参考！
+　　1、What are you interested in studying in college？
+　　你对大学学习的哪方面感兴趣？
+　　解答提示：这个问题问的是你的学术计划，以及未来的职业方向和兴趣，包括你的背景和个性等。考生应选择一门学科，并说出为什么。要有明确的目标和方向，不要含糊不清。
+　　2、What high school accomplishment are you most proud of？
+　　你高中期间最自豪的成就是什么？
+　　解答提示：这个问题除了能展现你的强项以外，还能透露出你的人生追求，让面试官更加全面地了解你。考生讲述自己的成就时要表现出热情和积极的一面，让面试官知道你是一个有激情的年轻人，这一点很重要。
+　　3、Tell me about your family background？ Where did you grow up？
+　　说说你的家庭背景，你在哪儿长大的？
+　　解答提示：通过这个问题，面试官想了解的是，你是在怎样的环境中成长起来的，在社会上属于怎样一类人，更重要的是了解你对自己的成长背景的感受和看法。考生如实作答，多谈谈你自己，千万别只答一句话。
+　　4、What is an example of something difficult you‘ve had to go through， or an important event perhaps that took place in your life in the last few years？
+　　过去几年你是否经历过艰难或重要的时刻？
+　　解答提示：这个问题问的是你是谁、你有怎样的价值观，对你来说最重要的是什么。面试官想了解你是怎样一个人，你和他人的关系等。回答这一题时，要自信地说出你的故事。同时也要展示出一种自省的态度，要反映出你在思考这些经历。不要回答得太简短。
+　　5、Why Harvard or Why Princeton？ or Why Columbia？ …
+　　为什么选择哈佛/普林斯顿/哥伦比亚……？
+　　解答提示：这一题问的是你对学校的了解。回答这一题前要做好功课，查查各学校的特色。作答时应主要谈该校在学术方面对你特别有吸引力的项目、课程、老师等等，但也不要局限于学业方面，也可以谈谈学校的氛围、课外活动等等，展示你是一个爱好广泛积极热情的人。

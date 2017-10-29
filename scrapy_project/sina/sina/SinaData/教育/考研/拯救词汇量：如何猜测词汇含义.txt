@@ -1,0 +1,12 @@
+　　词汇是英语学习的重要基础，所以自从选择了考研那天起，我们就把大把的时间献给了背诵英语词汇事业。很多人会有这样一种困惑，有时候这个单词在词汇书上我认识，但是到了阅读题目中却认不出来，或者是词汇书上那个意思放在文章中根本理解不通。出现这种局面，归根结底还是背的不熟，所以才会一时认不出！考研词汇数量极多，含义极其丰富，此外每年的真题还要嵌入3%的超纲词，还会有很多的派生词跟合成词，这些都是你在大纲词汇中无法背完整的。其实根本没必要背过所有的单词，有些生词可以根据语境去推测其含义的。所以考生必须要学会一些猜词的方法。
+　
+　　就是通过分析词汇“结构内部”的前缀、后缀和词根，推测生词的大致含义。例如2014年阅读真题中有这样一句话：
+　　You can receive unconditional payments if the disaster happens。
+　　解析：condition表示“条件”。添加了un-表示否定含义，后面添加后缀-al表示形容词后缀。整个单词理解为“无条件的”。“如果灾难发生，你可以获得（来自政府的）无条件的付款。”
+　　They overestimate the interviewee‘s ability and asked him many difficult questions。
+　　解析：estimate表示“估计”，over-前缀表示超出，高于，所以结合后的含义应该是高估。根据句意理解，他们问了这个面试者一些难的问题，正是因为觉得面试的能力很高。如此也可以推断出该词的含义。
+　　不要指望你能背过所有单词，有些词汇就是考试的时候让你猜的。比如：mass 是“大众，众多，大量”的意思，market“市场”；合在一起，字面的意思就是“大众市场”，为了翻译通顺，我们理解为“畅销的，为大众市场接受的”。
+　　
+　　遇到词形构成上没有明显特点的词汇，就只能从上下文语境去判断其含义。此时，我们要从句子中重点搜索有没有同义关系的词，或者有没有含义解释。例如：
+　　The consequences of epochal events such as wars and great scientific discoveries are not confined to a small geographical area as they were in the past。
+　　解析：所猜词汇从词性上判断是形容词，修饰事件event。根据后文中出现的列举wars and great scientific discoveries“战争和重大的科学发现”，可以判断出此类事件的性质是比较重大。所以epochal的含义应该等同于great，意为“重大的，划时代的”。

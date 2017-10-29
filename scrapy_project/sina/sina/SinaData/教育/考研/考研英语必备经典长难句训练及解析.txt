@@ -1,0 +1,65 @@
+　　一、长难句训练题
+　　1、This trend began during the Second World War， when several governments came to the conclusion that the specific demands that a government wants to make of its scientific establishment cannot generally be foreseen in detail。
+　　2、Of course， some regulation is inevitable and undoubtedly necessary， but a free and democratic society functions best when it leaves the resolution of its ethical quandaries to the reasoned judgment of its citizens rather than the regulatory authority of the government。
+　　3、Whorf came to believe in a sort of linguistic determinism which， in its strongest form， states that language imprisons the mind， and that the grammatical patterns in a language can produce far-reaching consequences for the culture of a society。
+　　4、Additional social stress may also occur because of the population explosion or problems arising from mass migration movements--themselves made relatively easy nowadays by modern means of transport。
+　　5、While there are almost as many definitions of history as there are historians， modern practice most closely conforms to one that sees history as the attempt to recreate and explain the significant events of the past。
+　　二、长难句训练题解析
+　　1、
+　　解析：
+　　during the Second World War介词短语作状语；when several governments came to the conclusion … foreseen in detail做定语修饰the Second World War； that the specific demands cannot generally be foreseen in detail定语从句修饰conclusion； that a government wants to make of its scientific establishment定语从句修饰demands。
+　　参考译文：
+　　这种趋势始于第二次世界大战期间，当时一些国家的政府得出结论：政府向科研机构提出的具体要求通常是无法详尽预见的。
+　　2、
+　　解析：
+　　Of course介词短语作状语；
+　　从属连词when 引导的从句it leaves the resolution of its ethical quandaries to the reasoned judgment of its citizens rather than the regulatory authority of the government为状语修饰动词function。
+　　参考译文：
+　　当然，某些规定是不可避免并且是必需的，但是只有当社会让民众通过自己的理智判断而非政府管制去解决道德难题时，一个自由民主的社会才能最大限地发挥其功能。
+　　3、
+　　解析：
+　　句子的主干是Whorf came to believe in a sort of linguistic determinism。which引导定语从句，修饰linguistic determinism。定语从句的谓语动词是states，两个that引导宾语从句，并列作为states的宾语。
+　　参考译文：
+　　沃尔夫进而相信类似某种语言决定论的观点，其极端说法是：语言禁锢思维，语言的语法结构能对一个社会的文化产生深远的影响。
+　　4、
+　　解析：
+　　句子主干是Additional social stress may also occur。because of 的后边接两个名词短语the population explosion和problems arising from mass migration movements--themselves made relatively easy nowadays by modern means of transport来表示原因。其中，第二个名词短语又含有一个短语themselves made relatively easy nowadays by modern means of transport来补充说明mass migration movements。因此，这里的代词themselves指代名词短语mass migration movements。“made relatively easy nowadays by modern means of transport”为过去分词短语作后置定语，修饰themselves。
+　　参考译文：
+　　由于人口的猛增或大量的人口流动（现代交通工具使这种流通变得相对容易）造成的种种问题也回对社会造成新的压力。
+　　5、
+　　解析：
+　　while引导让步状语从句，其意思是“虽然”。不定代词one 指代名词短语definition of history。that引导定语从句，修饰one。
+　　参考译文：
+　　几乎每个历史学家对史学都有自己的界定，但现代史学家的实践最趋向于认为历史学是试图重现过去的重大史实并对其做出解释。
+　　三、长难句训练题
+　　1、Creating a “European identity” that respects the different cultures and traditions which go to make up the connecting fabric of the Old Continent is no easy task and demands a strategic choice—that of producing programs in Europe for Europe。
+　　2、The issue of whether life ever existed on the planet， and whether it persists to this day， has been highlighted by mounting evidence that the Red Planet once had abundant stable， liquid water and by the continuing controversy over suggestions that bacterial fossils rode to Earth on a meteorite from Mars。
+　　3、It has also been proposed that just because we know so much about people intuitively， there has been less incentive for studying them scientifically： Why should one develop a theory， carry out systematic observations， or make predictions about the obvious？
+　　4、You have all heard it repeated that men of science work by means of induction and deduction， that by the help of these operations， they， in a sort of sense， manage to extract from Nature certain natural laws， and that out of these， by some special skill of their own， they build up their theories。
+　　5、Behaviorists suggest that the child who is raised in an environment where there are many stimuli which develop his or her capacity for appropriate responses will experience greater intellectual development。
+　　四、长难句训练题解析
+　　1、
+　　解析：
+　　句子的主干是Creating a “European identity” is no easy task and demands a strategic choice。第一个that是定语从句的关系代词，引导定语从句来修饰European identity；而第二个that即that of producing …，这个that 就是一个指示代词，指前文出现过的名词choice。which引导定语从句修饰different cultures and traditions。
+　　参考译文：
+　　不同的文化和传统把欧洲大陆编制成一体，要创造出一种尊重这些不同文化和传统的“欧洲品牌”绝非易事，需要人们做出战略性的选择，即选择在欧洲为欧洲做节目。
+　　2、
+　　解析：
+　　主句为：The issue of whether life ever existed on the planet， and whether it persists to this day， has been highlighted by… and by…。主句主语的结构为： The issue of whether…and whether…。of 短语修饰the issue， that the Red Planet…是evidence的同位语从句，（即是evidence的具体内容）。that bacterial fossils…是suggestions的同位语从句，说明suggestions的具体内容。）
+　　参考译文：
+　　越来越多的证据表明，这个红色行星上曾经有稳定而丰富的液态水，而且人们对从火星落到地球上的细菌化石陨石的说法一直有争论，这使火星上是否存在过生命和是否至今仍有生命的问题成为了引人注目的重点。
+　　3、
+　　解析：
+　　主句为：It has also been proposed。That…for studying them scientifically是主语从句，是形式主语it的真主语。because we know so much about people intuitively是这个主语从句中嵌套的原因状语从句。冒号后面是一个简单句，对前面内容起解释说明作用。）
+　　参考译文：
+　　还有解释说，正是由于我们对人的直觉了解太多，所以我们没有科学地研究这些直觉的动力：对于显而易见之事，人们为什么要建立一种理论、进行系统的观察或是作一些预言呢？
+　　4、
+　　解析：
+　　主句为：You have all heard it repeated， 后面三个that引导的宾语从句是it形式宾语的具体内容。这三个that从意义上可以看作一系列连续的动作。
+　　参考译文：
+　　你们都多次听说过，科学家是用归纳法和演绎法工作的，而且从某种意义上来说，他们依靠这种方法力求从自然界归纳出某些自然规律，然后根据这些规律，用自己的某种非同一般的本领，建立起他们的理论。
+　　5、
+　　解析：
+　　本句的主干即是Behaviorists suggest that 。。。；that引导suggest的宾语从句，动词是will experience；who引导修饰child的定语从句，动词为is raised；where引导修饰environment的定语从句，动词为are；which引导修饰stimuli的定语从句，动词为develop。
+　　参考译文：
+　　行为主义者的看法是，如果一个儿童在有许多刺激物的环境里成长，而这些刺激物能够发展其做出适当反应的能力，那么，这个儿童将会有更高的智力发展。
